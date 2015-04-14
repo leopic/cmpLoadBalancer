@@ -2,6 +2,7 @@
   "sourcePort": 4000,
   "balancerCount": 1,
   "sessionExpiry": 1,
+  "balancerControllerPath": "controller.js",
   "targets": [
     {
       "host": "boot2docker",
